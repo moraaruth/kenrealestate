@@ -37,3 +37,10 @@ yarn-error.log*
 
 # OS
 Thumbs.db
+node_modules
+.next
+out
+dist
+build
+.env
+.env.local
